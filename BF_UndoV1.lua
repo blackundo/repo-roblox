@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/menumodrepo/projectanti/blob/main/kv1.lua"))() 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/menumodrepo/projectanti/main/kv1.lua"))() 
